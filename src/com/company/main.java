@@ -26,7 +26,7 @@ public class main
             orchester.add(nastroj);
             System.out.println("NASTROJ PRIDANY");
         }
-        else System.out.println("NASTROJ NEPRIDANY");
+        else System.out.println("NASTROJ NEPRIDANY TEST");
 
     }
     public static double get_materialne_naklady(ArrayList<Nastroj> orchester)
