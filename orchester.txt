@@ -1,5 +1,0 @@
-U,Jožko,Púčik,Husle,200
-B,Bicie,150,BumBác,1,7
-G,Gitara,200,Brnk,2,6
-H,Husle,300,Tidli-tidli,10,4,GDAE
-S,Saxofón,350,Tírárá,1,16,G
